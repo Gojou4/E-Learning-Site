@@ -180,3 +180,140 @@ nav a:hover{
 .icon-right:hover{
     background-color: #49BBBD80;
 }
+.choice-favourite{
+    width: 100%;
+    height: 1121px;
+    background-color: #FFF;
+}
+
+.recommended{
+    width: 100%;
+    height: 1022px;
+    background-color: #EBF5FF;
+}
+
+.get-choice{
+    width: 100%;
+    height: 2243px;
+    background-color: #FFF;
+}
+
+.student-viewing{
+    width: 100%;
+    height: 946px;
+    background-color: #EBF5FF;
+}
+
+footer{
+    width: 1920px;
+    height: 593px;
+    background: #252641;
+}
+.logo2{
+    display: flex;
+    padding-top: 74px;
+}
+.logo-footer{
+    padding-left: 766px;
+    padding-right: 77px;
+}
+.logo2 p{
+    width: 156px;
+    color: #FFF;
+    font-size: 22px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.88px;
+    padding-top: 9px;
+    margin-left: 41px;
+}
+.sub p{
+    color: #B2B3CF;
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.04px;
+    margin-top: 95px;
+}
+form{
+    text-align: center;
+    margin-top: 20px;
+}
+form input{
+    width: 400px;
+    height: 60px;
+    border-radius: 80px;
+    border: 1px solid #83839A;
+    background: #252641;
+    color: #83839A;
+    font-size: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.8px;
+    padding-left: 30px;
+}
+form input:hover{
+    border: 1px solid #49BBBD;
+}
+form button{
+    width: 179px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 60px;
+    background: #49BBBD;
+    color: #FFF;
+    font-size: 22px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 20px;
+}
+form button:hover{
+    background: #fff;
+    color: #49BBBD;
+}
+.about{
+    display: flex;
+    margin-top: 96px;
+    justify-content: center;
+}
+.about p{
+    color: #B2B3CF;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.88px;
+    padding: 0 20px;
+}
+.about p:hover{
+    text-decoration: underline;
+}
+.about hr{
+    margin-top: 9px;
+}
+.copyright{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    justify-content: center;
+}
+.copyright p{
+    color: #B2B3CF;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.88px;
+}

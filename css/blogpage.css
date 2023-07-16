@@ -7,10 +7,11 @@
     box-sizing: border-box;
 }
 .container{
-    width: 1920px;
-    height: 4194px;
+    max-width: 1920px;
+    margin: auto;
 }
 header{
+    width: 1920px;
     background-color: #fff;
     height: 145px;
     display: flex;
@@ -55,6 +56,7 @@ nav a:hover{
     padding-left: 12px;
 }
 .post-top{
+    width: 1920px;
     height: 667px;
     background-color: #EBF5FF;
     display: grid;
